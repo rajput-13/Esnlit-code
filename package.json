@@ -1,0 +1,18 @@
+{
+  "name": "javascript-eslint-project",
+  "version": "1.0.0",
+  "description": "1. Getting Started with ESLint",
+  "main": "index.js",
+  "devDependencies": {
+    "@eslint/js": "^9.3.0",
+    "eslint": "^9.3.0",
+    "globals": "^15.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
